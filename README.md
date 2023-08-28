@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on OpenDILab
 - 🌱 I’m currently learning MLOps
-- 📫 How to reach me: norman26625@gmial.com
+- 📫 How to reach me: norman26625@gmail.com
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=TuTuHuss&theme=cobalt&show_icons=true)
