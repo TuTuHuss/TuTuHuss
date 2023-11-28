@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on OpenDILab
+- 🔭 I’m currently working in OpenDILab
 - 🌱 I’m currently learning MLOps
 - 📫 How to reach me: norman26625@gmail.com
 
